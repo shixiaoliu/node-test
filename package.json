@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shixiaoliu/node-test/issues"
   },
+  "publishConfig": {
+   "@shixiaoliu:registry": "https://npm.pkg.github.com"
+  },
   "homepage": "https://github.com/shixiaoliu/node-test#readme"
 }
